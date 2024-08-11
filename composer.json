@@ -1,0 +1,30 @@
+{
+    "name": "code-corner/api-bridge",
+    "description": "Unified PHP Client for X, Facebook, and Google Maps",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yash Gupta",
+            "email": "yash121999@gamil.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.2",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeCorner\\APIBridge\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CodeCorner\\APIBridge\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable"
+}
