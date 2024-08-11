@@ -152,4 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please contact us at [yash121999@gamil.com](mailto:yash121999@gamil.com).
+For any questions or issues, please contact us at [yash121999@gmail.com](mailto:yash121999@gmail.com).
